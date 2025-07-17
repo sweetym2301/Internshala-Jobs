@@ -9,9 +9,7 @@ __pycache__/
 # Logs
 *.log
 
-# Power BI files
-*.pbix
-*.pbi
+
 
 # Jupyter Notebook checkpoints (if used in future)
 .ipynb_checkpoints/
