@@ -1,0 +1,29 @@
+# Ignore Python virtual environment
+proj2_env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Power BI files
+*.pbix
+*.pbi
+
+# Jupyter Notebook checkpoints (if used in future)
+.ipynb_checkpoints/
+
+# Environment/IDE specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files (optional, if you want to exclude CSVs)
+# outputs/*.csv
